@@ -1,5 +1,5 @@
 # Fuzzy_logic
-this repository contains the implementation of fuzzy_logic in python . 
+this repository contains the implementation of fuzzy inference system in python . 
 
 
 /*
