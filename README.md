@@ -10,8 +10,6 @@ If you want to about this example (and fuzzy logic), please
 read Matlab's tutorial on fuzzy logic toolbox
 http://www.mathworks.com/access/helpdesk/help/pdf_doc/fuzzy/fuzzy.pdf
 
-Pablo Cingolani
-pcingola@users.sourceforge.net
 */
 
 FUNCTION_BLOCK tipper // Block definition (there may be more than one block per file)
